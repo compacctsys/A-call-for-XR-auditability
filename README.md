@@ -1,9 +1,7 @@
 # A call for auditable Virtual, Augmented and Mixed Reality
 
-Richard Cloete, Chris Norval and Jatinder Singh
-
-Compliant and Accountable Systems Group (http://www.compacctsys.net/)
-
+Richard Cloete, Chris Norval and Jatinder Singh <br/>
+Compliant and Accountable Systems Group (http://www.compacctsys.net/) <br/>
 University of Cambridge
 
 To appear in VRST 2020 (https://vrst.acm.org/vrst2020/)
